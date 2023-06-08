@@ -1,5 +1,5 @@
 {
-  "name": "test-dynamo",
+  "name": "handleread",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "dependencies": {
     "dynamoose": "^3.2.0"
   },
+  "devDependencies": {},
   "description": ""
 }
